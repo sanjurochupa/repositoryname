@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemap>
+	
+	<!-- Main Course content -->
+    <module title="Module One" visible="true" icon="" bg="">
+        <lesson title="Lesson One" num="1.00" time="45" points="1">
+            <page href="../../module01/lesson00/01_00_01.htm" title="01.00 Welcome"/>
+            <page href="../../module01/lesson00/01_00_02.htm" title="01.00 Page 1"/>
+        </lesson>
+        <lesson title="Lesson Two" num="1.01" time="45" points="1">
+			<page href="../../module01/lesson01/01_01_01.htm" title="01.01 Page 01"/>
+			<page href="../../module01/lesson01/01_01_02.htm" title="01.01 Page 02"/>
+        </lesson>
+    </module>
+	
+</sitemap>
