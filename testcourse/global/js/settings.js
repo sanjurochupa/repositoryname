@@ -30,7 +30,7 @@ var settings = {}; // do not edit
 var show = {}; // do not edit
 var external = {}; // do not edit
 
-settings['course_folder'] = 'csqa';
+settings['course_folder'] = 'testcourse';
 settings['course_title'] = 'CSQA Training';
 settings['link_glossary'] = '';
 settings['link_notes'] = '';
